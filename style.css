@@ -1,0 +1,46 @@
+#cont1
+{
+    background-color: blue;
+    min-height: 200px;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cont2
+{
+    background-color: red;
+    min-height: 200px;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#small
+{
+    border: 1px solid #333333;
+    background-color: #F7F7F8;
+    color: #f7f7f8;
+    font-size: 2rem;
+}
+#small1
+{
+    border: 1px solid #333333;
+    background-color: blueviolet;
+    color: #f7f7f8;
+    font-size: 2rem;
+}
+#small2
+{
+    border: 1px solid #333333;
+    background-color: firebrick;
+    color: #f7f7f8;
+    font-size: 2rem;
+}
+#small4
+{
+    border: 1px solid #333333;
+    background-color: rgb(67, 224, 151);
+    color: #f7f7f8;
+    font-size: 2rem;
+}
